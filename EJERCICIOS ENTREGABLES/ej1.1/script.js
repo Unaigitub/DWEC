@@ -1,4 +1,4 @@
-const max = 10;
+const max = 100;
 let seguir = true;
 for (let i = 0; seguir == true; i++) {
   document.body.innerHTML += "<p>" + i + "</p>";
